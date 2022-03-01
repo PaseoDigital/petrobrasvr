@@ -30,9 +30,10 @@ HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-ali
 ### Title
 panorama_33041E5F_3F17_A7D8_41BB_8527370F8599.label = Punto de Abastecimiento
 panorama_33374700_3F14_A528_41A9_08AF17EF3B8C.label = Muelle
-panorama_335608A1_3F14_AB68_41A7_2EA3245A3E2E.label = Silo
+panorama_335608A1_3F14_AB68_41A7_2EA3245A3E2E.label = Tanque
 video_4FAE3877_41F3_5917_41C5_007C1ED810CA.label = Comp 1
 video_520E9B0E_4215_D8F9_41A9_DC96C0671FD0.label = Comp 1_1
+video_5F001622_4236_C929_41B8_C4F1AF2C8104.label = prueba animacion
 
 ## Action
 
