@@ -1,9 +1,8 @@
 {
- "start_url": "index.htm",
- "name": "Petrobras - Planta Villa Elisa",
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
  "background_color": "#FFFFFF",
+ "name": "Nextar - Plataforma de Inducción",
+ "display": "fullscreen",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ]
+ ],
+ "theme_color": "#FFFFFF"
 }
